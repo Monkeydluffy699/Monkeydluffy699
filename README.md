@@ -16,11 +16,11 @@
 
 
    Working for Akatsuki network 
-   # ️⚜️ AKATSUKI 
+  ![⚜️ AKATSUKI](https://telegra.ph/file/35e9cfb830ce3a7136db8.mp4). 
 
-<p align="center">
 
-  <img alt="Akatsuki network" title="Akatsuki network" style="padding:10px;" src="https://telegra.ph/file/35e9cfb830ce3a7136db8.mp4">
+
+
 
 </p>
 
