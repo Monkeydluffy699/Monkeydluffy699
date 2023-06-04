@@ -1,4 +1,4 @@
-![Monkey.d.luffy](https://telegra.ph/file/35e9cfb830ce3a7136db8.mp4)
+![Monkey.d.luffy](https://telegra.ph/file/55953b748032c1f106feb.jpg)
 # Hi there 👋, I'm 「 Monkey d luffy 」
 
 
