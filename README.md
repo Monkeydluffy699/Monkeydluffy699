@@ -16,7 +16,13 @@
 
 
    Working for Akatsuki network 
-   ![Akatsuki NETWORK](https://telegra.ph/file/00cbd7ddc817e81229f22.jpg)
+   # ️⚜️ AKATSUKI 
+
+<p align="center">
+
+  <img alt="Akatsuki network" title="Akatsuki network" style="padding:10px;" src="https://i.imgur.com/xNilUO9.gif">
+
+</p>
 
 <!---
 Monkeydluffy699/Monkeydluffy699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
