@@ -9,10 +9,11 @@
 
 - 👋 Hi, I’m @Monkeydluffy699
 
-- 👀 I’m interested in Your mom
-- 🌱 I’m currently learning How to fuck
-- 💞️ I’m looking to collaborate on female sex sux 
-- 📫 How to reach me don't disturb me
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python projects 
+   Working for Akatsuki network 
+   ![Akatsuki NETWORK](https://telegra.ph/file/00cbd7ddc817e81229f22.jpg)
 
 <!---
 Monkeydluffy699/Monkeydluffy699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
