@@ -20,7 +20,7 @@
 
 <p align="center">
 
-  <img alt="Akatsuki network" title="Akatsuki network" style="padding:10px;" src="https://i.imgur.com/xNilUO9.gif">
+  <img alt="Akatsuki network" title="Akatsuki network" style="padding:10px;" src="https://i.">
 
 </p>
 
