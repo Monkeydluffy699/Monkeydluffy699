@@ -16,7 +16,7 @@
 
 
    Working for Akatsuki network 
-  ![⚜️ AKATSUKI](https://telegra.ph/file/35e9cfb830ce3a7136db8.mp4). 
+ ![⚜️ AKATSUKI](https://telegra.ph/file/35e9cfb830ce3a7136db8.mp4)
 
 
 
